@@ -5,4 +5,4 @@ A Computer Science and Management Information Systems graduate with a strong pas
 Feel free to [reach out to me](mailto:shindesuprit3@gmail.com) if you are building products that contribute towards making the world a better place to live for!
 
 ######
-<img src="https://github.com/suprit-shinde/profile/blob/main/assets/profile-picture.jpeg" width="380" alt="Suprit" style="float: left; margin: 0 1.5em 15px 0; min-width: 150px; max-width: 45%" />
+<img src="https://github.com/suprit-shinde/profile/blob/main/assets/profile-picture.jpeg" width="325" alt="Suprit" style="float: left; margin: 0 1.5em 15px 0; min-width: 150px; max-width: 45%" />
